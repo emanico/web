@@ -10,6 +10,10 @@ require (
 	github.com/go-chi/cors v1.1.1
 	github.com/go-errors/errors v1.1.1
 	github.com/gofrs/uuid v3.3.0+incompatible
+	github.com/google/go-github v17.0.0+incompatible
+	github.com/google/go-github/v28 v28.1.1
+	github.com/google/go-github/v33 v33.0.0
+	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/gorilla/schema v1.2.0
 	github.com/gorilla/securecookie v1.1.1
 	github.com/joho/godotenv v1.3.0
@@ -22,5 +26,5 @@ require (
 	github.com/stretchr/testify v1.6.1
 	go.uber.org/zap v1.16.0
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/oauth2 v0.0.0-20201203001011-0b49973bad19
 )
